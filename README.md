@@ -1,2 +1,9 @@
 # l402ify
  
+Create a .env file containing these values:
+´´´
+OPENAI_KEY = <OPENAI API KEY>
+LOCATION = <LOCATION OF THE SERVICE>
+LIGHTNING_ADDRESS = <YOUR LN ADDRESS>
+SIGNING_KEY = <SUPER SECRET SECRET>
+´´´
